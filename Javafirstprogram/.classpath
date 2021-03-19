@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="D:/Automation/client-combined-3.141.59.jar" sourcepath="/facebook"/>
+	<classpathentry exported="true" kind="lib" path="D:/Automation/client-combined-3.141.59-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Automation/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Automation/libs/commons-exec-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Automation/libs/guava-25.0-jre.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Automation/libs/okhttp-3.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Automation/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Automation/jxl-2.6.jar/jxl-2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
